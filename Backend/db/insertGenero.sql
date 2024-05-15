@@ -1,0 +1,22 @@
+-- Insertar datos en la tabla de géneros
+INSERT INTO GENERO (nombre) VALUES
+    ('Policíaco'),
+    ('Western'),
+    ('Novela histórica'),
+    ('Realismo mágico'),
+    ('Distopía'),
+    ('Satírico'),
+    ('Ensayo'),
+    ('Ciencia'),
+    ('Literatura erótica'),
+    ('Novela negra'),
+    ('Biografía novelada'),
+    ('Terror psicológico'),
+    ('Novela corta'),
+    ('Mitología'),
+    ('Epistolar'),
+    ('Paranormal'),
+    ('Novela de formación'),
+    ('Costumbrista'),
+    ('Metaficción'),
+    ('Neorrealismo');

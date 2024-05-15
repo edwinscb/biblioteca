@@ -1,0 +1,22 @@
+-- Insertar datos en la tabla de idiomas (los más hablados)
+INSERT INTO IDIOMA (nombre) VALUES
+    ('Mandarín'),
+    ('Español'),
+    ('Inglés'),
+    ('Hindi'),
+    ('Árabe'),
+    ('Bengalí'),
+    ('Portugués'),
+    ('Ruso'),
+    ('Japonés'),
+    ('Panyabí'),
+    ('Alemán'),
+    ('Javanés'),
+    ('Wu'),
+    ('Telugu'),
+    ('Maratí'),
+    ('Tamil'),
+    ('Urdu'),
+    ('Turco'),
+    ('Coreano'),
+    ('Francés');
